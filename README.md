@@ -1,7 +1,7 @@
 Skeincoin Core integration/staging tree
 =======================================
 
-https://www.skeincoin.co
+https://www.skeincoin.com.co
 
 What is Skeincoin?
 ------------------
@@ -13,7 +13,7 @@ out collectively by the network. Skeincoin Core is the name of open source
 software which enables the use of this currency.
 
 For more information, as well as an immediately useable, binary version of
-the Skeincoin Core software, see https://www.skeincoin.co/
+the Skeincoin Core software, see https://www.skeincoin.com.co
 
 License
 -------
